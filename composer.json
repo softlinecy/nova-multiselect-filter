@@ -1,5 +1,5 @@
 {
-    "name": "klepak/nova-multiselect-filter",
+    "name": "softlinecy/nova-multiselect-filter",
     "description": "Multiselect filter for Laravel Nova",
     "keywords": [
         "laravel",
