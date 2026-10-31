@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.1|^8.2",
-        "laravel/framework": "^9.0 || ^10.0 || ^11.0 || ^12.0 || ^13.0",
+        "laravel/framework": "^12.69 || ^13.30",
         "laravel/nova": "^2.0 || ^3.0"
     },
     "require-dev": {
